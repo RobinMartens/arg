@@ -1,0 +1,3 @@
+
+
+typedef error const char *
